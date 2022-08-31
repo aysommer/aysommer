@@ -7,7 +7,7 @@ My name is Artyom Sommer and I'm Frontend Software Developer.
 I use technology stack:
 - [TypeScript](https://www.typescriptlang.org/);
 - [React](https://reactjs.org/);
-- [Solid](https://www.solidjs.com/)
+- [Solid](https://www.solidjs.com/);
 - [React Query](https://react-query.tanstack.com/);
 - [Redux](https://redux.js.org/);
 - [Redux Toolkit](https://redux-toolkit.js.org/);
