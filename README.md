@@ -1,9 +1,7 @@
 # Hi ✌
 
-### Who am i?
 My name is Artyom Sommer and I'm Frontend Software Developer.
 
-### About my tools
 I use technology stack:
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"></a>
