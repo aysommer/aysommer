@@ -1,5 +1,3 @@
-# Hi ✌
-
 My name is Artyom Sommer and I'm Frontend Software Developer.
 
 I use technology stack:
