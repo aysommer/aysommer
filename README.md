@@ -1,7 +1,3 @@
-My name is Artyom Sommer and I'm Frontend Software Developer.
-
-I use technology stack:
-
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"></a>
 <a href="https://www.solidjs.com/" target="_blank"><img src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="Solid" width="50" height="50"></a>
